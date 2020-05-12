@@ -3,7 +3,7 @@ Inspired by ScreenDragon software. A version made for Linux systems
 
 ![Cat (Ack)](https://raw.githubusercontent.com/caelwithcats/picture-character/master/picture-character.png "Ack")
 
-To install PictureCharacter, download the `picture-character-v1.0.deb` file from the releases page and copy this into the terminal
+To install PictureCharacter, download the `picture-character-vX.X.deb` file from the releases page and copy this into the terminal
 
     sudo dpkg -i picture-character-v1.0.deb
 To run it type:
