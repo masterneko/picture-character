@@ -5,7 +5,7 @@ Inspired by ScreenDragon software. A version made for Linux systems
 
 To install PictureCharacter, download the `picture-character-vX.X.deb` file from the releases page and copy this into the terminal
 
-    sudo dpkg -i picture-character-v1.0.deb
+    sudo dpkg -i picture-character-vX.X.deb # Replace "X" with the current version
 To run it type:
 
     pic-character
